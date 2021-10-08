@@ -14,6 +14,6 @@ A version that randomly selects a base currency and the currencies to compare ag
 
 ![newplot(19)](https://user-images.githubusercontent.com/69304112/136550202-14994ab6-25ca-49bb-ad05-5def6902cd73.png)
 
-![newplot(22)](https://user-images.githubusercontent.com/69304112/136550784-92e2ec51-732c-4f4e-8631-e567a3e00802.png)
-
 ![newplot(25)](https://user-images.githubusercontent.com/69304112/136550874-b348c805-52fa-4af5-b5a5-1b8fdcf05c46.png)
+
+![newplot(30)](https://user-images.githubusercontent.com/69304112/136551318-4a34c028-d79e-444c-9366-c6f07d862451.png)
