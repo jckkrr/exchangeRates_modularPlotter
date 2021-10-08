@@ -1,4 +1,4 @@
-# exchangeRates_modularPlotter
+# Exchange Rates Modular Plotter
 A script that charts multiple versions of a currency's rate against a flexible number of other currencies, and displays them in a modular grid.
 
 ![newplot(18)](https://user-images.githubusercontent.com/69304112/136550107-021272c8-5885-417a-8d94-fa34e651cd24.png)
